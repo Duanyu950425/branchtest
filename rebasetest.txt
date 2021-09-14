@@ -1,2 +1,6 @@
 rebase test
 test rebase
+
+
+test pull
+看一下拉代码时只pull是什么情况
